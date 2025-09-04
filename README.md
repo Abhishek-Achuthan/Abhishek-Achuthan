@@ -1,52 +1,41 @@
-# Hi 👋 My name is Abhishek
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Abhishek
+=================================================================================================================================
 
-## Web Developer
+Web Developer
+-------------
 
-I’m a passionate MERN stack developer who started this journey about a year ago.  
-... [keep your intro text as is] ...
+I’m a passionate MERN stack developer who started this journey about a year ago. What drew me into web development wasn’t a single “aha” moment it just happened naturally. The more I explored coding, the more I realized how much I enjoy turning ideas into interactive, functional applications.
 
-- 🌍 Based in Kochi  
-- 🧠 Currently learning **WebSockets / Socket.IO**  
-- 👥 Open to collaborate on creative projects  
-- 💬 Ask me about solving problems through code  
+I like working across the stack — from designing clean, responsive frontends with React, to building reliable backends with Node.js and Express, and managing data with MongoDB. Along the way, I’ve picked up good practices in writing reusable code, debugging tricky issues, and building projects that actually solve problems.
 
----
+For me, coding is a mix of logic and creativity. I’m constantly experimenting, learning new tools, and refining how I build things. Every project I take on teaches me something new and that’s what keeps me motivated.
 
-## 🛠 Skills
+Right now, I’m focused on sharpening my skills, contributing to projects, and building a solid portfolio that reflects my growth as a developer. My goal is simple: keep improving, keep building, and keep learning.
+
+* 🌍  I'm based in kochi
+* 🧠  I'm currently learning Real-time communication with WebSockets / Socket.IO
+* 👥  I'm looking to collaborate on Creative ideas that challenge me to grow as a developer
+* 💬  Ask me about Love solving problems through code and learning by building
+
 <p align="left">
-  <!-- Group icons in rows for better wrapping -->
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
-  <!-- Add the rest as needed -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadcnui-colored-dark.svg" alt="Shadcn/ui" title="Shadcn/ui" width="36" height="36" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" alt="Redux" title="Redux" width="36" height="36" /></a><a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" alt="Webpack" title="Webpack" width="36" height="36" /></a><a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored-dark.svg" alt="Babel" title="Babel" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a>
 </p>
 
----
+### Socials
 
-## 🌐 Socials
-<p align="left">
-  <a href="https://github.com/Abhishek-Achuthan">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<p align="left"> <a href="https://www.github.com/Abhishek-Achuthan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
+<a href="https://www.github.com/Abhishek-Achuthan" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Abhishek-Achuthan?logo=github&style=for-the-badge&color=444e59&labelColor=000000" /></a>
+### Badges
 
----
+<b>My GitHub Stats</b>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek-Achuthan&show_icons=true&theme=radical" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-Achuthan&theme=radical" height="180em" />
-</p>
+<a href="http://www.github.com/Abhishek-Achuthan"><img src="https://github-readme-stats.vercel.app/api?username=Abhishek-Achuthan&show_icons=true&hide=contribs&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=444e59&bg_color=000000&hide_border=true&show_icons=true" alt="Abhishek-Achuthan's GitHub stats" /></a>
 
----
+<a href="http://www.github.com/Abhishek-Achuthan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-Achuthan&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-## 📌 Top Repositories
-<p align="center">
-  <a href="https://github.com/Abhishek-Achuthan/CODEHIVE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek-Achuthan&repo=CODEHIVE&theme=radical" />
-  </a>
-  <a href="https://github.com/Abhishek-Achuthan/ComicAura">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek-Achuthan&repo=ComicAura&theme=radical" />
-  </a>
-</p>
+<a href="https://github.com/Abhishek-Achuthan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Achuthan&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=444e59&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/Abhishek-Achuthan/CODEHIVE" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek-Achuthan&repo=CODEHIVE&title_color=ffffff&text_color=ffffff&icon_color=444e59&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/Abhishek-Achuthan/ComicAura" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek-Achuthan&repo=ComicAura&title_color=ffffff&text_color=ffffff&icon_color=444e59&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
