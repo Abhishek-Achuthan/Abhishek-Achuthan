@@ -13,7 +13,6 @@
 
 - ⚡ Fun fact **I see debugging as detective work every bug is just a mystery waiting to be solved.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
